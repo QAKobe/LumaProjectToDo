@@ -13,6 +13,10 @@ import java.util.Map;
 
 public class LumaStepDefs {
 
+    /*
+    Go to each page classes and implement methods
+    After finishing, add cucumber report with plugin and run your code via verify from maven lifeCycle
+     */
 
     WebDriver driver = DriverHelper.getDriver();
 
